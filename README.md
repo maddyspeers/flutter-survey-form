@@ -29,6 +29,24 @@ To run this file in a Flutter environment:
 3. Run the app:
     ```bash
     flutter run
+<p align="center">
+Screenshot of Flutter Survey: <br/>
+<img src="https://i.imgur.com/hh8kCxA.png" height="40%" width="40%" alt="Flutter Survey"/>
+<br />
+<br />
+<img src="https://i.imgur.com/evJ3MIi.png" height="40%" width="40%" alt="Flutter Survey"/>
+<br />
+<br />
+<img src="https://i.imgur.com/hI2I9FW.png" height="40%" width="40%" alt="Flutter Survey"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Dm6Grda.png" height="40%" width="40%" alt="Flutter Survey"/>
+<br />
+<br />
+<img src="https://i.imgur.com/20ljpDV.png" height="40%" width="40%" alt="Flutter Survey"/>
+<br />
+<br />
+
 ## ✨ Features
 - First and Last Name input
 - Graduation status toggle (Checkbox)
